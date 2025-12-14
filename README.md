@@ -9,29 +9,39 @@ By [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549)
 ### Schedule
 
 #### Day 1
-<font style="font-size:10">09:15 AM - 09:45 AM: Welcome & Intro<br>
-09:30 AM - 10:30 AM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
-10:30 AM - 10:45 AM: Break<br>
-10:45 AM - 11:15 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
-11:15 PM - 11:30 PM: Setup Colab<br>
-11:30 PM - 12:00 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
-12:00 PM - 01:30 PM: Lunch<br>
-01:30 PM - 02:00 PM: Walkthrough<br>
-02:00 PM - 03:00 PM: [Talk: Intro to transformers & embeddings](day_2/day_2.pdf)<br>
-03:00 PM - 03:15 PM: Break<br>
-03:15 AM - 04:15 PM: [Talk: Intro to transformers & embeddings (continued)](day_2/day_2.pdf)<br>
-04:15 PM - 05:00 PM: Discussion: Find applications in small groups<br>
+<font style="font-size:10">02:00 PM - 02:45 AM: Welcome & Intro<br>
+02:30 PM - 03:45 PM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
+03:45 PM - 04:00 PM: Break<br>
+04:00 PM - 04:30 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
+04:30 PM - 04:45 PM: Setup Colab<br>
+04:45 PM - 05:30 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
+05:30 PM - 06:00 PM: Walkthrough<br>
+           07:00 PM: Self-paid<br> 
 
 #### Day 2
+09:30 AM - 10:00 AM: Recap quiz<br>
+10:00 PM - 11:00 PM: [Talk: Intro to transformers & embeddings](day_2/day_2.pdf)<br>
+10:45 PM - 11:00 PM: Break<br>
+11:00 AM - 12:00 PM: [Talk: Intro to transformers & embeddings (continued)](day_2/day_2.pdf)<br>
+12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
+01:00 PM - 02:00 PM: Lunch<br>
+02:00 PM - 03:00 PM: [Exercise: Clarifying personality psychology](day_2/day_2.ipynb)<br>
+03:00 PM - 03:30 PM: Walkthrough<br>
+03:30 PM - 03:45 PM: Break<br>
+03:45 AM - 04:45 PM: [Intro to classification and regression](day_3/day_3.pdf)<br>
+04:15 PM - 05:15 PM: [Exercise: Classifying media bias](day_3/day_3a.ipynb) (combination of 3a and 3b)<br>
+05:15 PM - 06:00 PM: Walkthrough<br>
+           07:00 PM: Dinner<br> 
+
+#### Day 3
 09:30 AM - 10:30 AM: Recap quiz<br>
-10:30 PM - 11:30 PM: [Exercise: Clarifying personality psychology](day_2/day_2.ipynb)<br>
-11:30 PM - 12:00 PM: Walkthrough<br>
-12:00 PM - 01:30 PM: Lunch<br>
-01:30 AM - 02:30 PM: [Intro to classification and regression](day_3/day_3.pdf)<br>
-02:30 PM - 02:45 PM: Break<br>
-02:45 PM - 03:45 PM: [Exercise: Classifying media bias](day_3/day_3a.ipynb) (combination of 3a and 3b)<br>
-03:45 PM - 04:15 PM: Walkthrough<br>
-04:15 PM - 05:00 PM: Discussion: Find applications in small groups<br>
+10:30 PM - 11:00 PM: [Talk: Intro to info extraction](day_3/day_3.pdf)<br>
+11:00 PM - 12:00 PM: [Exercise: Info extraction from articles](day_3/day_3.pdf)<br>
+12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
+01:00 PM - 02:00 PM: Lunch<br>
+02:00 PM - 03:00 PM: [Talk: Research applications](day_3/day_3.pdf)<br>
+03:00 PM - 04:00 PM: Open questions<br>
+
 
 ### Resources
 <a href="https://doi.org/10.3758/s13428-024-02455-8">Hussain, Binz, Mata, & Wulff (2024). A tutorial on open-source large language models for behavioral science. *Behavior Research Methods*, 1-24.
