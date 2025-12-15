@@ -5,7 +5,7 @@
 The course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral and social sciences. 
 
 Help by [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549)<br>
-Materials by [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549), [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova]([https://zak-hussain.github.io/](https://www.mpib-berlin.mpg.de/person/131137/2549)), and [Valentin Kriegmair](https://www.mpib-berlin.mpg.de/person/valentin-kriegmair/63440)
+Materials by [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549), [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova](https://www.mpib-berlin.mpg.de/person/131137/2549), and [Valentin Kriegmair](https://www.mpib-berlin.mpg.de/person/valentin-kriegmair/63440)
 
 ### Schedule
 
