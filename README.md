@@ -86,7 +86,7 @@ drive.mount("/content/drive")
 %cd /content/drive/MyDrive
 !git clone https://github.com/Zak-Hussain/LLM4BeSci_StGallen2025
 ```
-5. Go back to your Google Drive and navigate to the folder "LLM4BeSci_StGallen2025" (this is your own copy, so you can edit it how you like, and the changes won't affect anyone else's copies). You should see the directories `day_1`, `day_2`, `day_3`, `day_4`, and `day_5` containing the relevant notebooks (.ipynb files) and data (it may take a couple of minutes for the files to appear) for each day's exercises.
+5. Go back to your Google Drive and navigate to the folder "LLM4BeSci_StGallen2025" (this is your own copy, so you can edit it how you like, and the changes won't affect anyone else's copies). You should see the directories `day_1`, `day_2`, `day_3` containing the relevant notebooks (.ipynb files) and data (it may take a couple of minutes for the files to appear) for each day's exercises.
 
 You have now successfully set up your Google Colab environment and cloned the GitHub repository! 
 
