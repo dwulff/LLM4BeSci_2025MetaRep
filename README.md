@@ -21,23 +21,24 @@ Materials by [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549), [Za
 
 #### Day 2
 09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 PM - 11:00 PM: [Talk: Intro to transformers & embeddings]()<br>
-10:45 PM - 11:00 PM: Break<br>
+10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings]()<br>
+10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: [Talk: Intro to transformers & embeddings (continued)]()<br>
 12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
 01:00 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: [Exercise: Clarifying personality psychology]()<br>
 03:00 PM - 03:30 PM: Walkthrough<br>
 03:30 PM - 03:45 PM: Break<br>
-03:45 AM - 04:45 PM: [Intro to classification and regression]()<br>
+03:45 PM - 04:45 PM: [Intro to classification and regression]()<br>
 04:15 PM - 05:15 PM: [Exercise: Classifying media bias]() (combination of 3a and 3b)<br>
 05:15 PM - 06:00 PM: Walkthrough<br>
            07:00 PM: Dinner (self-paid)<br> 
 
 #### Day 3
 09:30 AM - 10:30 AM: Recap quiz<br>
-10:30 PM - 11:00 PM: [Talk: Intro to info extraction]()<br>
-11:00 PM - 12:00 PM: [Exercise: Info extraction from articles]()<br>
+10:30 AM - 11:00 AM: [Talk: Intro to info extraction]()<br>
+11:00 AM - 11:15 AM: Break<br>
+11:10 AM - 12:00 PM: [Exercise: Info extraction from articles]()<br>
 12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
 01:00 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: [Talk: Research applications]()<br>
@@ -84,7 +85,7 @@ drive.mount("/content/drive")
 4. Create a second cell in your notebook using the "+ Code" button that appears when you hover your cursor right under the first cell. Copy and run the following code snippet in the second cell of your notebook to clone the GitHub repository to your Google Drive:
 ```
 %cd /content/drive/MyDrive
-!git clone https://github.com/Zak-Hussain/LLM4BeSci_StGallen2025
+!git clone https://github.com/dwulff/LLM4BeSci_2025MetaRep
 ```
 5. Go back to your Google Drive and navigate to the folder "LLM4BeSci_StGallen2025" (this is your own copy, so you can edit it how you like, and the changes won't affect anyone else's copies). You should see the directories `day_1`, `day_2`, `day_3` containing the relevant notebooks (.ipynb files) and data (it may take a couple of minutes for the files to appear) for each day's exercises.
 
