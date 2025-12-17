@@ -21,23 +21,24 @@ Materials by [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549), [Za
 
 #### Day 2
 09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 PM - 11:00 PM: [Talk: Intro to transformers & embeddings]()<br>
-10:45 PM - 11:00 PM: Break<br>
+10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings]()<br>
+10:45 AM - 11:00 AM: Break<br>
 11:00 AM - 12:00 PM: [Talk: Intro to transformers & embeddings (continued)]()<br>
 12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
 01:00 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: [Exercise: Clarifying personality psychology]()<br>
 03:00 PM - 03:30 PM: Walkthrough<br>
 03:30 PM - 03:45 PM: Break<br>
-03:45 AM - 04:45 PM: [Intro to classification and regression]()<br>
+03:45 PM - 04:45 PM: [Intro to classification and regression]()<br>
 04:15 PM - 05:15 PM: [Exercise: Classifying media bias]() (combination of 3a and 3b)<br>
 05:15 PM - 06:00 PM: Walkthrough<br>
            07:00 PM: Dinner (self-paid)<br> 
 
 #### Day 3
 09:30 AM - 10:30 AM: Recap quiz<br>
-10:30 PM - 11:00 PM: [Talk: Intro to info extraction]()<br>
-11:00 PM - 12:00 PM: [Exercise: Info extraction from articles]()<br>
+10:30 AM - 11:00 AM: [Talk: Intro to info extraction]()<br>
+11:00 AM - 11:15 AM: Break<br>
+11:00 AM - 12:00 PM: [Exercise: Info extraction from articles]()<br>
 12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
 01:00 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: [Talk: Research applications]()<br>
