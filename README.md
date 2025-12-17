@@ -38,7 +38,7 @@ Materials by [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549), [Za
 09:30 AM - 10:30 AM: Recap quiz<br>
 10:30 AM - 11:00 AM: [Talk: Intro to info extraction]()<br>
 11:00 AM - 11:15 AM: Break<br>
-11:00 AM - 12:00 PM: [Exercise: Info extraction from articles]()<br>
+11:10 AM - 12:00 PM: [Exercise: Info extraction from articles]()<br>
 12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
 01:00 PM - 02:00 PM: Lunch<br>
 02:00 PM - 03:00 PM: [Talk: Research applications]()<br>
