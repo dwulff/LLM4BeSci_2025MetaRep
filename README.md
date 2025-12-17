@@ -11,26 +11,26 @@ Materials by [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549), [Za
 
 #### Day 1
 <font style="font-size:10">02:00 PM - 02:45 AM: Welcome & Intro<br>
-02:30 PM - 03:45 PM: [Talk: Intro to LLMs]()<br>
+02:30 PM - 03:45 PM: [Talk: Intro to LLMs](day_1/day_1a.pdf)<br>
 03:45 PM - 04:00 PM: Break<br>
-04:00 PM - 04:30 PM: [Talk: A gentle intro to Hugging Face and Python]()<br>
+04:00 PM - 04:30 PM: [Talk: A gentle intro to Hugging Face and Python](day_1/day_1b.pdf)<br>
 04:30 PM - 04:45 PM: Setup Colab<br>
-04:45 PM - 05:30 PM: [Exercise: Running pipelines]()<br>
+04:45 PM - 05:30 PM: [Exercise: Running pipelines](day_1/day_1.ipynb)<br>
 05:30 PM - 06:00 PM: Walkthrough<br>
            07:00 PM: Dinner (self-paid)<br> 
 
 #### Day 2
 09:30 AM - 10:00 AM: Recap quiz<br>
-10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings]()<br>
+10:00 AM - 11:00 AM: [Talk: Intro to transformers & embeddings](day_2/day_2_embeddings.pdf)<br>
 10:45 AM - 11:00 AM: Break<br>
-11:00 AM - 12:00 PM: [Talk: Intro to transformers & embeddings (continued)]()<br>
+11:00 AM - 12:00 PM: [Talk: Intro to transformers & embeddings (continued)](day_2/day_2_embeddings.pdf)<br>
 12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
 01:00 PM - 02:00 PM: Lunch<br>
-02:00 PM - 03:00 PM: [Exercise: Clarifying personality psychology]()<br>
+02:00 PM - 03:00 PM: [Exercise: Clarifying personality psychology](day_2/day_2_embeddings.ipynb)<br>
 03:00 PM - 03:30 PM: Walkthrough<br>
 03:30 PM - 03:45 PM: Break<br>
-03:45 PM - 04:45 PM: [Intro to classification and regression]()<br>
-04:15 PM - 05:15 PM: [Exercise: Classifying media bias]() (combination of 3a and 3b)<br>
+03:45 PM - 04:45 PM: [Intro to classification and regression](day_2/day_2_classification.pdf)<br>
+04:15 PM - 05:15 PM: [Exercise: Classifying media bias]() (combination of 2 classification a and b)<br>
 05:15 PM - 06:00 PM: Walkthrough<br>
            07:00 PM: Dinner (self-paid)<br> 
 
