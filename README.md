@@ -36,12 +36,12 @@ Materials by [Zak Hussain](https://zak-hussain.github.io/), [Taisiia Tikhomirova
 
 #### Day 3
 09:30 AM - 10:30 AM: Recap quiz<br>
-10:30 AM - 11:00 AM: [Talk: Intro to info extraction]()<br>
+10:30 AM - 11:00 AM: [Talk: Intro to info extraction](day_3/day_3a.pdf)<br>
 11:00 AM - 11:15 AM: Break<br>
-11:10 AM - 12:00 PM: [Exercise: Info extraction from articles]()<br>
+11:10 AM - 12:00 PM: [Exercise: Info extraction from articles](day_3/day_3.ipynb) (see also [Outlines example](day_3/day_3_outlines.ipynb))<br>
 12:00 PM - 01:00 PM: Discussion: Find applications in small groups<br>
 01:00 PM - 02:00 PM: Lunch<br>
-02:00 PM - 03:00 PM: [Talk: Research applications]()<br>
+02:00 PM - 03:00 PM: [Talk: Research applications](day_3/day_3b.pdf)<br>
 03:00 PM - 04:00 PM: Open questions<br>
 
 
